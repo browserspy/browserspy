@@ -1,7 +1,7 @@
 # BrowserSpy
 
 [BrowserSpy](https://browserspy.io) is a hosted manual testing tool that enables 
-you to record exactly what caused a problem. This makes for happiers developers,
+you to record exactly what caused a problem. This makes for happier developers,
 testers and customers as you no longer have to waste time on working out what
 happened - you can just watch it.
 
